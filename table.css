@@ -1,0 +1,32 @@
+table{
+    border-width: 2px;
+    border-color: gray;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+
+th.trial1{
+    width: 15%;
+    padding: 10px;
+}
+
+
+th.trial2{
+    width: 40px;
+    padding: 10px;
+}
+
+table.trial3{
+    width: 40%;
+    
+}
+
+td{
+    text-align: center;
+    vertical-align: top;
+}
+
+tr:hover{
+    background-color: coral;
+}
